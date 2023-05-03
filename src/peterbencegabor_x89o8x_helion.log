@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.28)  2 MAY 2023 23:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.28)  3 MAY 2023 21:14
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -504,36 +504,39 @@ Package: amsthm 2020/05/29 v2.20.6
 ) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 \beamer@dima=\dimen282
 \beamer@dimb=\dimen283
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeSingapore.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthememiniframes.sty)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemebeaver.sty)
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeCambridgeUS.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemebeaver.sty)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedolphin.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/multimedia.sty
+Package: multimedia 2012/05/02 ver 0.02
+\mm@movie=\count329
+)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 7.
+(hyperref)                removing `\\' on input line 21.
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count329
+\l__color_backend_stack_int=\count330
 \l__pdf_internal_box=\box75
 ) (./peterbencegabor_x89o8x_helion.aux)
 \openout1 = `peterbencegabor_x89o8x_helion.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -543,14 +546,14 @@ LaTeX Font Info:    ... okay on input line 11.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=307.28987pt
+* \textwidth=342.2953pt
 * \textheight=244.6939pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -571,16 +574,16 @@ LaTeX Font Info:    ... okay on input line 11.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count330
+\scratchcounter=\count331
 \scratchdimen=\dimen284
 \scratchbox=\box76
-\nofMPsegments=\count331
-\nofMParguments=\count332
+\nofMPsegments=\count332
+\nofMParguments=\count333
 \everyMPshowfont=\toks45
-\MPscratchCnt=\count333
+\MPscratchCnt=\count334
 \MPscratchDim=\dimen285
-\MPnumerator=\count334
-\makeMPintoPDFobject=\count335
+\MPnumerator=\count335
+\makeMPintoPDFobject=\count336
 \everyMPtoPDFconversion=\toks46
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -588,7 +591,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 11.
+Package hyperref Info: Link coloring OFF on input line 25.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -596,57 +599,57 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count336
+\c@section@level=\count337
 )
-LaTeX Info: Redefining \ref on input line 11.
-LaTeX Info: Redefining \pageref on input line 11.
-LaTeX Info: Redefining \nameref on input line 11.
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
  (./peterbencegabor_x89o8x_helion.out) (./peterbencegabor_x89o8x_helion.out)
 \@outlinefile=\write5
 \openout5 = `peterbencegabor_x89o8x_helion.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 11.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 11.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 25.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 11.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 11.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 11.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 11.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 11.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 11.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 11.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 11.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 11.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 11.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 11.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 11.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 11.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 11.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 11.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 11.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 11.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 11.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 11.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 25.
  (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -659,47 +662,113 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./peterbencegabor_x89o8x_helion.nav) (./peterbencegabor_x89o8x_helion.toc) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+) (./peterbencegabor_x89o8x_helion.nav) (./peterbencegabor_x89o8x_helion.toc) [1
 
-] [2]
-<latest_512_0304.jpg, id=130, 513.92pt x 513.92pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+<latest_512_0304.jpg, id=129, 513.92pt x 513.92pt>
 File: latest_512_0304.jpg Graphic file (type jpg)
 <use latest_512_0304.jpg>
-Package pdftex.def Info: latest_512_0304.jpg  used on input line 35.
+Package pdftex.def Info: latest_512_0304.jpg  used on input line 42.
 (pdftex.def)             Requested size: 154.17719pt x 154.17719pt.
-<800px-Fusion_in_the_Sun.svg.png, id=131, 803.0pt x 1147.28625pt>
+<800px-Fusion_in_the_Sun.svg.png, id=130, 803.0pt x 1147.28625pt>
 File: 800px-Fusion_in_the_Sun.svg.png Graphic file (type png)
 <use 800px-Fusion_in_the_Sun.svg.png>
-Package pdftex.def Info: 800px-Fusion_in_the_Sun.svg.png  used on input line 35.
+Package pdftex.def Info: 800px-Fusion_in_the_Sun.svg.png  used on input line 42.
 (pdftex.def)             Requested size: 104.39366pt x 149.15244pt.
  [3
 
  <./latest_512_0304.jpg> <./800px-Fusion_in_the_Sun.svg.png>]
-<Binding_energy_curve_-_common_isotopes.svg.png, id=165, 602.25pt x 395.4775pt>
+<Binding_energy_curve_-_common_isotopes.svg.png, id=160, 602.25pt x 395.4775pt>
 File: Binding_energy_curve_-_common_isotopes.svg.png Graphic file (type png)
 <use Binding_energy_curve_-_common_isotopes.svg.png>
-Package pdftex.def Info: Binding_energy_curve_-_common_isotopes.svg.png  used on input line 41.
+Package pdftex.def Info: Binding_energy_curve_-_common_isotopes.svg.png  used on input line 51.
 (pdftex.def)             Requested size: 301.12425pt x 197.73827pt.
  [4
 
  <./Binding_energy_curve_-_common_isotopes.svg.png>]
-<iter.jpeg, id=197, 4516.875pt x 2210.2575pt>
+<iter.jpeg, id=189, 4516.875pt x 2210.2575pt>
 File: iter.jpeg Graphic file (type jpg)
 <use iter.jpeg>
-Package pdftex.def Info: iter.jpeg  used on input line 48.
-(pdftex.def)             Requested size: 203.25061pt x 99.45729pt.
-<deut_trit_v2.png, id=198, 1471.4975pt x 761.84625pt>
+Package pdftex.def Info: iter.jpeg  used on input line 61.
+(pdftex.def)             Requested size: 194.22183pt x 95.03922pt.
+<deut_trit_v2.png, id=190, 1471.4975pt x 761.84625pt>
 File: deut_trit_v2.png Graphic file (type png)
 <use deut_trit_v2.png>
-Package pdftex.def Info: deut_trit_v2.png  used on input line 48.
-(pdftex.def)             Requested size: 206.00824pt x 106.65775pt.
-
-Overfull \vbox (4.59656pt too high) detected at line 48
- []
-
-[5
+Package pdftex.def Info: deut_trit_v2.png  used on input line 61.
+(pdftex.def)             Requested size: 198.64359pt x 102.8448pt.
+ [5
 
  <./iter.jpeg> <./deut_trit_v2.png>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 80.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 80.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<trenta-1-1400x934.png, id=219, 1053.9375pt x 703.12688pt>
+File: trenta-1-1400x934.png Graphic file (type png)
+<use trenta-1-1400x934.png>
+Package pdftex.def Info: trenta-1-1400x934.png  used on input line 80.
+(pdftex.def)             Requested size: 210.78377pt x 140.62288pt.
+ [6
+
+ <./trenta-1-1400x934.png>]
+<helion_fusion_thumbnail.png, id=247, 2030.58624pt x 1087.06125pt>
+File: helion_fusion_thumbnail.png Graphic file (type png)
+<use helion_fusion_thumbnail.png>
+Package pdftex.def Info: helion_fusion_thumbnail.png  used on input line 97.
+(pdftex.def)             Requested size: 223.36517pt x 119.5771pt.
+ [7
+
+ <./helion_fusion_thumbnail.png>]
+<field_reverse_config.png, id=282, 2030.58624pt x 1087.06125pt>
+File: field_reverse_config.png Graphic file (type png)
+<use field_reverse_config.png>
+Package pdftex.def Info: field_reverse_config.png  used on input line 107.
+(pdftex.def)             Requested size: 304.5748pt x 163.05214pt.
+ [8
+
+ <./field_reverse_config.png>]
+<d_d_fusion.png, id=311, 2030.58624pt x 1087.06125pt>
+File: d_d_fusion.png Graphic file (type png)
+<use d_d_fusion.png>
+Package pdftex.def Info: d_d_fusion.png  used on input line 124.
+(pdftex.def)             Requested size: 243.65984pt x 130.44171pt.
+
+Overfull \hbox (72.51219pt too wide) in paragraph at lines 124--124
+ [] 
+ []
+
+<d_d_fusion_possibility_1.png, id=312, 2030.58624pt x 1087.06125pt>
+File: d_d_fusion_possibility_1.png Graphic file (type png)
+<use d_d_fusion_possibility_1.png>
+Package pdftex.def Info: d_d_fusion_possibility_1.png  used on input line 124.
+(pdftex.def)             Requested size: 142.15556pt x 76.10205pt.
+<d_d_fusion_possibility_2.png, id=313, 2030.58624pt x 1087.06125pt>
+File: d_d_fusion_possibility_2.png Graphic file (type png)
+<use d_d_fusion_possibility_2.png>
+Package pdftex.def Info: d_d_fusion_possibility_2.png  used on input line 124.
+(pdftex.def)             Requested size: 142.15556pt x 76.10205pt.
+[9
+
+ <./d_d_fusion.png> <./d_d_fusion_possibility_1.png> <./d_d_fusion_possibility_2.png>]
+<d_h3_fusion.png, id=345, 2030.58624pt x 1087.06125pt>
+File: d_h3_fusion.png Graphic file (type png)
+<use d_h3_fusion.png>
+Package pdftex.def Info: d_h3_fusion.png  used on input line 131.
+(pdftex.def)             Requested size: 182.74487pt x 97.83128pt.
+<d_h3_fusion_2.png, id=346, 2030.58624pt x 1087.06125pt>
+File: d_h3_fusion_2.png Graphic file (type png)
+<use d_h3_fusion_2.png>
+Package pdftex.def Info: d_h3_fusion_2.png  used on input line 131.
+(pdftex.def)             Requested size: 182.74487pt x 97.83128pt.
+ [10
+
+ <./d_h3_fusion.png> <./d_h3_fusion_2.png>] [11
+
+]
 \tf@nav=\write6
 \openout6 = `peterbencegabor_x89o8x_helion.nav'.
 
@@ -711,21 +780,21 @@ Overfull \vbox (4.59656pt too high) detected at line 48
 
  (./peterbencegabor_x89o8x_helion.aux)
 Package rerunfilecheck Info: File `peterbencegabor_x89o8x_helion.out' has not changed.
-(rerunfilecheck)             Checksum: C2099BD11DFB40BDB4A7822383167FCD;967.
+(rerunfilecheck)             Checksum: 2D7E9330321F56FB019476A2D99E55A1;693.
  ) 
 Here is how much of TeX's memory you used:
- 21380 strings out of 480171
- 416142 string characters out of 5894489
- 672914 words of memory out of 5000000
- 38894 multiletter control sequences out of 15000+600000
- 471071 words of font info for 34 fonts, out of 8000000 for 9000
+ 21857 strings out of 480171
+ 428197 string characters out of 5894489
+ 676089 words of memory out of 5000000
+ 39316 multiletter control sequences out of 15000+600000
+ 479082 words of font info for 64 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 99i,19n,104p,508b,783s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on peterbencegabor_x89o8x_helion.pdf (5 pages, 3811564 bytes).
+ 99i,16n,104p,510b,652s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb>
+Output written on peterbencegabor_x89o8x_helion.pdf (11 pages, 12490456 bytes).
 PDF statistics:
- 252 PDF objects out of 1000 (max. 8388607)
- 215 compressed objects within 3 object streams
- 19 named destinations out of 1000 (max. 500000)
- 138 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 435 PDF objects out of 1000 (max. 8388607)
+ 368 compressed objects within 4 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
 

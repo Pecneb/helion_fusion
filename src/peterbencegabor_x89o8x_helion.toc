@@ -1,8 +1,7 @@
-\beamer@sectionintoc {1}{Bevezetés}{1}{0}{1}
-\beamer@subsectionintoc {1}{1}{Fúzió}{1}{0}{1}
-\beamer@subsectionintoc {1}{2}{Tokamak}{1}{0}{1}
-\beamer@sectionintoc {2}{Helion}{1}{0}{2}
-\beamer@subsectionintoc {2}{1}{Felépítés}{1}{0}{2}
-\beamer@subsectionintoc {2}{2}{Üzemanyag felhasználása}{1}{0}{2}
-\beamer@subsectionintoc {2}{3}{Üzemanyag előállítása}{1}{0}{2}
-\beamer@subsectionintoc {2}{4}{Energia kinyerése}{1}{0}{2}
+\beamer@sectionintoc {1}{Bevezetés}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Fúzió}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Tokamak}{5}{0}{1}
+\beamer@sectionintoc {2}{Helion}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Működési elv}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Fúzió}{9}{0}{2}
+\beamer@subsectionintoc {2}{3}{Áram termelés}{11}{0}{2}
