@@ -24,18 +24,26 @@
 \headcommand {\beamer@framepages {7}{7}}
 \headcommand {\slideentry {2}{1}{2}{8/8}{Működési elv}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\beamer@subsectionpages {7}{8}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{9}{Fúzió}}
-\headcommand {\slideentry {2}{2}{1}{9/9}{Fúzió}{0}}
+\headcommand {\slideentry {2}{1}{3}{9/9}{Működési elv}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\slideentry {2}{2}{2}{10/10}{Fúzió}{0}}
+\headcommand {\beamer@subsectionpages {7}{9}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{10}{Üzemanyag}}
+\headcommand {\slideentry {2}{2}{1}{10/10}{Üzemanyag}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\beamer@subsectionpages {9}{10}}
-\headcommand {\beamer@subsectionentry {0}{2}{3}{11}{Áram termelés}}
-\headcommand {\slideentry {2}{3}{1}{11/11}{Áram termelés}{0}}
+\headcommand {\slideentry {2}{2}{2}{11/11}{Üzemanyag}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\beamer@partpages {1}{11}}
-\headcommand {\beamer@subsectionpages {11}{11}}
 \headcommand {\beamer@sectionpages {6}{11}}
-\headcommand {\beamer@documentpages {11}}
-\headcommand {\gdef \inserttotalframenumber {10}}
+\headcommand {\beamer@subsectionpages {10}{11}}
+\headcommand {\sectionentry {3}{Vége}{12}{Vége}{0}}
+\headcommand {\slideentry {3}{0}{1}{12/12}{}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@sectionpages {12}{12}}
+\headcommand {\beamer@subsectionpages {12}{12}}
+\headcommand {\sectionentry {4}{Források}{13}{Források}{0}}
+\headcommand {\slideentry {4}{0}{1}{13/13}{}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@partpages {1}{13}}
+\headcommand {\beamer@subsectionpages {13}{13}}
+\headcommand {\beamer@sectionpages {13}{13}}
+\headcommand {\beamer@documentpages {13}}
+\headcommand {\gdef \inserttotalframenumber {12}}
