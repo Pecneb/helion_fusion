@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.28)  7 MAY 2023 16:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.28)  7 MAY 2023 16:51
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -959,23 +959,23 @@ Package pdftex.def Info: trenta-1-1400x934.png  used on input line 97.
 <helion_fusion_thumbnail.png, id=267, 2030.58624pt x 1087.06125pt>
 File: helion_fusion_thumbnail.png Graphic file (type png)
 <use helion_fusion_thumbnail.png>
-Package pdftex.def Info: helion_fusion_thumbnail.png  used on input line 114.
+Package pdftex.def Info: helion_fusion_thumbnail.png  used on input line 118.
 (pdftex.def)             Requested size: 223.36517pt x 119.5771pt.
  [7
 
  <./helion_fusion_thumbnail.png>]
-<field_reverse_config.png, id=303, 2030.58624pt x 1087.06125pt>
+<field_reverse_config.png, id=304, 2030.58624pt x 1087.06125pt>
 File: field_reverse_config.png Graphic file (type png)
 <use field_reverse_config.png>
-Package pdftex.def Info: field_reverse_config.png  used on input line 125.
+Package pdftex.def Info: field_reverse_config.png  used on input line 129.
 (pdftex.def)             Requested size: 304.5748pt x 163.05214pt.
  [8
 
  <./field_reverse_config.png>]
-<piston.png, id=337, 1233.60875pt x 744.7825pt>
+<piston.png, id=338, 1233.60875pt x 744.7825pt>
 File: piston.png Graphic file (type png)
 <use piston.png>
-Package pdftex.def Info: piston.png  used on input line 136.
+Package pdftex.def Info: piston.png  used on input line 140.
 (pdftex.def)             Requested size: 246.71738pt x 148.95386pt.
  [9
 
@@ -983,22 +983,22 @@ Package pdftex.def Info: piston.png  used on input line 136.
 <d_d_fusion_v2.png, id=371, 923.45pt x 652.4375pt>
 File: d_d_fusion_v2.png Graphic file (type png)
 <use d_d_fusion_v2.png>
-Package pdftex.def Info: d_d_fusion_v2.png  used on input line 152.
+Package pdftex.def Info: d_d_fusion_v2.png  used on input line 156.
 (pdftex.def)             Requested size: 184.68672pt x 130.48518pt.
 
-Overfull \hbox (13.53908pt too wide) in paragraph at lines 152--152
+Overfull \hbox (13.53908pt too wide) in paragraph at lines 156--156
  [] 
  []
 
 <d_d_fusion_possibility_1.png, id=372, 2030.58624pt x 1087.06125pt>
 File: d_d_fusion_possibility_1.png Graphic file (type png)
 <use d_d_fusion_possibility_1.png>
-Package pdftex.def Info: d_d_fusion_possibility_1.png  used on input line 152.
+Package pdftex.def Info: d_d_fusion_possibility_1.png  used on input line 156.
 (pdftex.def)             Requested size: 162.45021pt x 86.96667pt.
 <d_d_fusion_possibility_2.png, id=373, 2030.58624pt x 1087.06125pt>
 File: d_d_fusion_possibility_2.png Graphic file (type png)
 <use d_d_fusion_possibility_2.png>
-Package pdftex.def Info: d_d_fusion_possibility_2.png  used on input line 152.
+Package pdftex.def Info: d_d_fusion_possibility_2.png  used on input line 156.
 (pdftex.def)             Requested size: 162.45021pt x 86.96667pt.
 [10
 
@@ -1006,12 +1006,12 @@ Package pdftex.def Info: d_d_fusion_possibility_2.png  used on input line 152.
 <d_h3_fusion.png, id=405, 2030.58624pt x 1087.06125pt>
 File: d_h3_fusion.png Graphic file (type png)
 <use d_h3_fusion.png>
-Package pdftex.def Info: d_h3_fusion.png  used on input line 167.
+Package pdftex.def Info: d_h3_fusion.png  used on input line 171.
 (pdftex.def)             Requested size: 182.74487pt x 97.83128pt.
 <d_h3_fusion_2.png, id=406, 2030.58624pt x 1087.06125pt>
 File: d_h3_fusion_2.png Graphic file (type png)
 <use d_h3_fusion_2.png>
-Package pdftex.def Info: d_h3_fusion_2.png  used on input line 167.
+Package pdftex.def Info: d_h3_fusion_2.png  used on input line 171.
 (pdftex.def)             Requested size: 182.74487pt x 97.83128pt.
  [11
 
@@ -1037,15 +1037,15 @@ Package logreq Info: Writing requests to 'peterbencegabor_x89o8x_helion.run.xml'
 
  ) 
 Here is how much of TeX's memory you used:
- 28805 strings out of 480171
- 568508 string characters out of 5894489
+ 28806 strings out of 480171
+ 568516 string characters out of 5894489
  1230374 words of memory out of 5000000
- 46189 multiletter control sequences out of 15000+600000
+ 46190 multiletter control sequences out of 15000+600000
  481922 words of font info for 75 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  99i,16n,104p,841b,801s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on peterbencegabor_x89o8x_helion.pdf (13 pages, 13168865 bytes).
+Output written on peterbencegabor_x89o8x_helion.pdf (13 pages, 13169137 bytes).
 PDF statistics:
  564 PDF objects out of 1000 (max. 8388607)
  481 compressed objects within 5 object streams
