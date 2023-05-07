@@ -1,12 +1,12 @@
 # Fdb version 3
-["biber peterbencegabor_x89o8x_helion"] 1683469692 "peterbencegabor_x89o8x_helion.bcf" "peterbencegabor_x89o8x_helion.bbl" "peterbencegabor_x89o8x_helion" 1683471112
-  "peterbencegabor_x89o8x_helion.bcf" 1683471112 106540 4d7ee46093e1d7a6cfc15ca0ba262fd6 "pdflatex"
+["biber peterbencegabor_x89o8x_helion"] 1683473212 "peterbencegabor_x89o8x_helion.bcf" "peterbencegabor_x89o8x_helion.bbl" "peterbencegabor_x89o8x_helion" 1683475441
+  "peterbencegabor_x89o8x_helion.bcf" 1683475441 106540 4d7ee46093e1d7a6cfc15ca0ba262fd6 "pdflatex"
   (generated)
   "peterbencegabor_x89o8x_helion.bbl"
   "peterbencegabor_x89o8x_helion.blg"
-["pdflatex"] 1683471110 "/media/pecneb/4d646cbd-cce0-42c4-bdf5-b43cc196e4a1/gitclones/helion_fusion/src/peterbencegabor_x89o8x_helion.tex" "peterbencegabor_x89o8x_helion.pdf" "peterbencegabor_x89o8x_helion" 1683471112
+["pdflatex"] 1683475439 "/media/pecneb/4d646cbd-cce0-42c4-bdf5-b43cc196e4a1/gitclones/helion_fusion/src/peterbencegabor_x89o8x_helion.tex" "peterbencegabor_x89o8x_helion.pdf" "peterbencegabor_x89o8x_helion" 1683475441
   "/etc/texmf/web2c/texmf.cnf" 1677618109 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/media/pecneb/4d646cbd-cce0-42c4-bdf5-b43cc196e4a1/gitclones/helion_fusion/src/peterbencegabor_x89o8x_helion.tex" 1683471109 6509 506751cade3f1af0b0703f2822dc170f ""
+  "/media/pecneb/4d646cbd-cce0-42c4-bdf5-b43cc196e4a1/gitclones/helion_fusion/src/peterbencegabor_x89o8x_helion.tex" 1683475436 7358 9e79cfa7303fe0195bafe659ce69716a ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -225,7 +225,6 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1677618114 165012 f177baa1c39a3ebd62c3096a43521a0d ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1677618116 1435800 68aacfb7ce679260e5f0ebf56ed8bb40 ""
   "800px-Fusion_in_the_Sun.svg.png" 1683059608 118893 c5b46cff395c67ce1e168ff965c68dbe ""
-  "Binding_energy_curve_-_common_isotopes.svg.png" 1683060422 17106 6eb5fabf2e7cfb7d0047162ae3bec398 ""
   "d_d_fusion_possibility_1.png" 1683140866 562088 832e7cca8e7821e84dbc65ed6d2e7fc8 ""
   "d_d_fusion_possibility_2.png" 1683140905 645646 a4ec61eb6ae30d734024263740a48efd ""
   "d_d_fusion_v2.png" 1683465252 246070 34d764f3cf56b869826778ea0ce8b9e2 ""
@@ -233,17 +232,19 @@
   "d_h3_fusion_2.png" 1683141216 236125 289bf7b8e6314a7536b6e6437b51c772 ""
   "deut_trit_v2.png" 1683061621 246999 5fe7a27a45e83f6aaf387f7dec152397 ""
   "field_reverse_config.png" 1683137315 1502534 6739528636a1a6aa8be285e164d47502 ""
+  "fusion_fission.jpeg" 1683472820 20664 90b7bcdf2aca0e79564901ea19aa32c2 ""
+  "gyro_orbit.png" 1683471512 272972 04b6f7a2b94723cb9d773e95307a3ff3 ""
   "helion_fusion_thumbnail.png" 1683120673 435228 9953ca8363fb82ae8f710b6a9e28e043 ""
   "helion_fusion_video.mp4" 1683119997 4019184 6507206ddb263d07a07a6138f381f529 ""
   "iter.jpeg" 1683061396 3280467 2cdee6f3b04cd69dec5f2a27731fb42a ""
   "latest_512_0304.jpg" 1683058237 64019 440975f2b4cac7b70edcee8306e087dd ""
-  "peterbencegabor_x89o8x_helion.aux" 1683471112 4620 2602b5e45c9ddc7508f5bb0dbda7479e "pdflatex"
+  "peterbencegabor_x89o8x_helion.aux" 1683475441 5454 4c042ba798e9f6213b4e3e905e077f7c "pdflatex"
   "peterbencegabor_x89o8x_helion.bbl" 0 -1 0 "biber peterbencegabor_x89o8x_helion"
-  "peterbencegabor_x89o8x_helion.nav" 1683471112 2414 f0b7435d9571eafc84d4548f7040172d "pdflatex"
-  "peterbencegabor_x89o8x_helion.out" 1683471112 731 5718f3f4c7acd30cbacc0eaf2a5ced06 "pdflatex"
-  "peterbencegabor_x89o8x_helion.run.xml" 1683471112 2399 d58ea345ac6f433d866322350c1220bb "pdflatex"
-  "peterbencegabor_x89o8x_helion.tex" 1683471109 6509 506751cade3f1af0b0703f2822dc170f ""
-  "peterbencegabor_x89o8x_helion.toc" 1683471112 384 02a65d50b8df1b06d0cd9416f69f4166 "pdflatex"
+  "peterbencegabor_x89o8x_helion.nav" 1683475441 2926 5436ef1081bab2f1efede92597feda64 "pdflatex"
+  "peterbencegabor_x89o8x_helion.out" 1683475441 1055 e3061eb52e691a320c6abbb8e3baddec "pdflatex"
+  "peterbencegabor_x89o8x_helion.run.xml" 1683475441 2399 d58ea345ac6f433d866322350c1220bb "pdflatex"
+  "peterbencegabor_x89o8x_helion.tex" 1683475436 7358 9e79cfa7303fe0195bafe659ce69716a ""
+  "peterbencegabor_x89o8x_helion.toc" 1683475441 508 c9172827cb77017870628fc4e5abcf43 "pdflatex"
   "piston.png" 1683461449 625129 1ecfe241916dec00a9ba0b5d9a5b4ea0 ""
   "trenta-1-1400x934.png" 1683119344 2616534 176a7119da634539f36d211c272572b5 ""
   (generated)

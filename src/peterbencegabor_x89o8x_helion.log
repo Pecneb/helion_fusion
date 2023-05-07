@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.28)  7 MAY 2023 16:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.28)  7 MAY 2023 18:03
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -906,12 +906,12 @@ Package biblatex Info: Reference segment=0 on input line 26.
  (./peterbencegabor_x89o8x_helion.nav) (./peterbencegabor_x89o8x_helion.toc) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-<latest_512_0304.jpg, id=137, 513.92pt x 513.92pt>
+<latest_512_0304.jpg, id=149, 513.92pt x 513.92pt>
 File: latest_512_0304.jpg Graphic file (type jpg)
 <use latest_512_0304.jpg>
 Package pdftex.def Info: latest_512_0304.jpg  used on input line 50.
 (pdftex.def)             Requested size: 154.17719pt x 154.17719pt.
-<800px-Fusion_in_the_Sun.svg.png, id=138, 803.0pt x 1147.28625pt>
+<800px-Fusion_in_the_Sun.svg.png, id=150, 803.0pt x 1147.28625pt>
 File: 800px-Fusion_in_the_Sun.svg.png Graphic file (type png)
 <use 800px-Fusion_in_the_Sun.svg.png>
 Package pdftex.def Info: 800px-Fusion_in_the_Sun.svg.png  used on input line 50.
@@ -919,14 +919,14 @@ Package pdftex.def Info: 800px-Fusion_in_the_Sun.svg.png  used on input line 50.
  [3
 
  <./latest_512_0304.jpg> <./800px-Fusion_in_the_Sun.svg.png>]
-<Binding_energy_curve_-_common_isotopes.svg.png, id=170, 602.25pt x 395.4775pt>
-File: Binding_energy_curve_-_common_isotopes.svg.png Graphic file (type png)
-<use Binding_energy_curve_-_common_isotopes.svg.png>
-Package pdftex.def Info: Binding_energy_curve_-_common_isotopes.svg.png  used on input line 59.
-(pdftex.def)             Requested size: 301.12425pt x 197.73827pt.
+<fusion_fission.jpeg, id=182, 469.755pt x 319.1925pt>
+File: fusion_fission.jpeg Graphic file (type jpg)
+<use fusion_fission.jpeg>
+Package pdftex.def Info: fusion_fission.jpeg  used on input line 59.
+(pdftex.def)             Requested size: 281.85518pt x 191.51697pt.
  [4
 
- <./Binding_energy_curve_-_common_isotopes.svg.png>]
+ <./fusion_fission.jpeg>]
 LaTeX Font Info:    Trying to load font information for U+msa on input line 78.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -935,12 +935,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 78.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<iter.jpeg, id=201, 4516.875pt x 2210.2575pt>
+<iter.jpeg, id=212, 4516.875pt x 2210.2575pt>
 File: iter.jpeg Graphic file (type jpg)
 <use iter.jpeg>
 Package pdftex.def Info: iter.jpeg  used on input line 78.
 (pdftex.def)             Requested size: 194.22183pt x 95.03922pt.
-<deut_trit_v2.png, id=202, 1471.4975pt x 761.84625pt>
+<deut_trit_v2.png, id=213, 1471.4975pt x 761.84625pt>
 File: deut_trit_v2.png Graphic file (type png)
 <use deut_trit_v2.png>
 Package pdftex.def Info: deut_trit_v2.png  used on input line 78.
@@ -948,7 +948,7 @@ Package pdftex.def Info: deut_trit_v2.png  used on input line 78.
  [5
 
  <./iter.jpeg> <./deut_trit_v2.png>]
-<trenta-1-1400x934.png, id=233, 1053.9375pt x 703.12688pt>
+<trenta-1-1400x934.png, id=244, 1053.9375pt x 703.12688pt>
 File: trenta-1-1400x934.png Graphic file (type png)
 <use trenta-1-1400x934.png>
 Package pdftex.def Info: trenta-1-1400x934.png  used on input line 97.
@@ -956,7 +956,7 @@ Package pdftex.def Info: trenta-1-1400x934.png  used on input line 97.
  [6
 
  <./trenta-1-1400x934.png>]
-<helion_fusion_thumbnail.png, id=267, 2030.58624pt x 1087.06125pt>
+<helion_fusion_thumbnail.png, id=278, 2030.58624pt x 1087.06125pt>
 File: helion_fusion_thumbnail.png Graphic file (type png)
 <use helion_fusion_thumbnail.png>
 Package pdftex.def Info: helion_fusion_thumbnail.png  used on input line 118.
@@ -964,7 +964,7 @@ Package pdftex.def Info: helion_fusion_thumbnail.png  used on input line 118.
  [7
 
  <./helion_fusion_thumbnail.png>]
-<field_reverse_config.png, id=304, 2030.58624pt x 1087.06125pt>
+<field_reverse_config.png, id=316, 2030.58624pt x 1087.06125pt>
 File: field_reverse_config.png Graphic file (type png)
 <use field_reverse_config.png>
 Package pdftex.def Info: field_reverse_config.png  used on input line 129.
@@ -972,7 +972,7 @@ Package pdftex.def Info: field_reverse_config.png  used on input line 129.
  [8
 
  <./field_reverse_config.png>]
-<piston.png, id=338, 1233.60875pt x 744.7825pt>
+<piston.png, id=350, 1233.60875pt x 744.7825pt>
 File: piston.png Graphic file (type png)
 <use piston.png>
 Package pdftex.def Info: piston.png  used on input line 140.
@@ -980,7 +980,7 @@ Package pdftex.def Info: piston.png  used on input line 140.
  [9
 
  <./piston.png>]
-<d_d_fusion_v2.png, id=371, 923.45pt x 652.4375pt>
+<d_d_fusion_v2.png, id=382, 923.45pt x 652.4375pt>
 File: d_d_fusion_v2.png Graphic file (type png)
 <use d_d_fusion_v2.png>
 Package pdftex.def Info: d_d_fusion_v2.png  used on input line 156.
@@ -990,12 +990,12 @@ Overfull \hbox (13.53908pt too wide) in paragraph at lines 156--156
  [] 
  []
 
-<d_d_fusion_possibility_1.png, id=372, 2030.58624pt x 1087.06125pt>
+<d_d_fusion_possibility_1.png, id=383, 2030.58624pt x 1087.06125pt>
 File: d_d_fusion_possibility_1.png Graphic file (type png)
 <use d_d_fusion_possibility_1.png>
 Package pdftex.def Info: d_d_fusion_possibility_1.png  used on input line 156.
 (pdftex.def)             Requested size: 162.45021pt x 86.96667pt.
-<d_d_fusion_possibility_2.png, id=373, 2030.58624pt x 1087.06125pt>
+<d_d_fusion_possibility_2.png, id=384, 2030.58624pt x 1087.06125pt>
 File: d_d_fusion_possibility_2.png Graphic file (type png)
 <use d_d_fusion_possibility_2.png>
 Package pdftex.def Info: d_d_fusion_possibility_2.png  used on input line 156.
@@ -1003,21 +1003,31 @@ Package pdftex.def Info: d_d_fusion_possibility_2.png  used on input line 156.
 [10
 
  <./d_d_fusion_v2.png> <./d_d_fusion_possibility_1.png> <./d_d_fusion_possibility_2.png>]
-<d_h3_fusion.png, id=405, 2030.58624pt x 1087.06125pt>
+<d_h3_fusion.png, id=416, 2030.58624pt x 1087.06125pt>
 File: d_h3_fusion.png Graphic file (type png)
 <use d_h3_fusion.png>
-Package pdftex.def Info: d_h3_fusion.png  used on input line 171.
+Package pdftex.def Info: d_h3_fusion.png  used on input line 172.
 (pdftex.def)             Requested size: 182.74487pt x 97.83128pt.
-<d_h3_fusion_2.png, id=406, 2030.58624pt x 1087.06125pt>
+<d_h3_fusion_2.png, id=417, 2030.58624pt x 1087.06125pt>
 File: d_h3_fusion_2.png Graphic file (type png)
 <use d_h3_fusion_2.png>
-Package pdftex.def Info: d_h3_fusion_2.png  used on input line 171.
+Package pdftex.def Info: d_h3_fusion_2.png  used on input line 172.
 (pdftex.def)             Requested size: 182.74487pt x 97.83128pt.
  [11
 
  <./d_h3_fusion.png> <./d_h3_fusion_2.png>] [12
 
-] [13
+]
+<gyro_orbit.png, id=477, 1108.14pt x 702.625pt>
+File: gyro_orbit.png Graphic file (type png)
+<use gyro_orbit.png>
+Package pdftex.def Info: gyro_orbit.png  used on input line 199.
+(pdftex.def)             Requested size: 188.3813pt x 119.44466pt.
+ [13
+
+ <./gyro_orbit.png>] [14
+
+] [15
 
 ]
 \tf@nav=\write7
@@ -1031,24 +1041,24 @@ Package pdftex.def Info: d_h3_fusion_2.png  used on input line 171.
 
  (./peterbencegabor_x89o8x_helion.aux)
 Package rerunfilecheck Info: File `peterbencegabor_x89o8x_helion.out' has not changed.
-(rerunfilecheck)             Checksum: 5718F3F4C7ACD30CBACC0EAF2A5CED06;731.
+(rerunfilecheck)             Checksum: E3061EB52E691A320C6ABBB8E3BADDEC;1055.
 Package logreq Info: Writing requests to 'peterbencegabor_x89o8x_helion.run.xml'.
 \openout1 = `peterbencegabor_x89o8x_helion.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28806 strings out of 480171
- 568516 string characters out of 5894489
- 1230374 words of memory out of 5000000
- 46190 multiletter control sequences out of 15000+600000
+ 28831 strings out of 480171
+ 568627 string characters out of 5894489
+ 1230378 words of memory out of 5000000
+ 46208 multiletter control sequences out of 15000+600000
  481922 words of font info for 75 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  99i,16n,104p,841b,801s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on peterbencegabor_x89o8x_helion.pdf (13 pages, 13169137 bytes).
+Output written on peterbencegabor_x89o8x_helion.pdf (15 pages, 13479783 bytes).
 PDF statistics:
- 564 PDF objects out of 1000 (max. 8388607)
- 481 compressed objects within 5 object streams
- 46 named destinations out of 1000 (max. 500000)
- 235 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 632 PDF objects out of 1000 (max. 8388607)
+ 545 compressed objects within 6 object streams
+ 52 named destinations out of 1000 (max. 500000)
+ 256 words of extra memory for PDF output out of 10000 (max. 10000000)
 
